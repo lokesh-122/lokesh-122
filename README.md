@@ -78,9 +78,10 @@ Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excit
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-122&layout=compact&theme=tokyonight&hide=html,css&langs_count=8&custom_title=Languages+I+Mostly+Use+as+an+AI+Developer)](https://github.com/lokesh-122)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-122&layout=compact&theme=tokyonight&hide=typescript,javascript,shell,html,css&langs_count=8&custom_title=Languages+I+Mostly+Use+as+an+AI+Developer)](https://github.com/lokesh-122)
 
 </div>
+
 
 
 ---
