@@ -1,54 +1,163 @@
-<p align="center">
-  <img src="https://i.postimg.cc/htRRXcQg/004f31cc-fb99-4bb6-a657-7f4b915ce668.png)](https://i.postimg.cc/jjJ8PJpF/004f31cc-fb99-4bb6-a657-7f4b915ce668.png" alt="Space Coder Banner" width="100%" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lokesh Varma Jampana</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      background-color: #0d0d0d;
+      color: #ffffff;
+      font-family: 'Poppins', sans-serif;
+    }
 
-# Hi, I'm Lokesh Varma Jampana 🚀
+    /* Rocket Float and Rotate Animation */
+    @keyframes floatRotate {
+      0% { transform: translateY(0px) rotate(0deg); }
+      25% { transform: translateY(-8px) rotate(-10deg); }
+      50% { transform: translateY(0px) rotate(0deg); }
+      75% { transform: translateY(8px) rotate(10deg); }
+      100% { transform: translateY(0px) rotate(0deg); }
+    }
 
-I'm passionate about building intelligent solutions using **AI** and **Machine Learning**.  
-Constantly exploring the intersection of technology, data, and innovation.  
-Let's connect and build the future together! 🌌
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 2rem;
+      font-weight: 600;
+    }
 
----
+    .rocket {
+      width: 40px;
+      animation: floatRotate 3s ease-in-out infinite;
+    }
 
-## 🛠️ Toolbox
+    /* Toolbox Section */
+    .toolbox {
+      margin-top: 30px;
+      font-size: 1rem;
+      color: #b3b3b3;
+      line-height: 1.8;
+    }
 
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+    /* Social Links */
+    .social-links {
+      margin-top: 30px;
+      display: flex;
+      gap: 15px;
+    }
+    .social-links a {
+      text-decoration: none;
+      color: #00bfff;
+      font-weight: 500;
+      transition: color 0.3s;
+    }
+    .social-links a:hover {
+      color: #1affff;
+    }
 
-</div>
+    /* Most Used Languages Section */
+    .languages-section {
+      margin-top: 50px;
+      text-align: center;
+    }
 
----
+    .languages-title {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+      color: #00ffff;
+    }
 
-## 🌐 Let's Get Connected!
+    .languages-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 40px;
+    }
 
-<div align="center">
+    .language-circle {
+      position: relative;
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      background: conic-gradient(#00bfff var(--percentage), #222 var(--percentage));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      color: #ffffff;
+      box-shadow: 0 0 15px #00bfff88;
+      transition: transform 0.3s;
+    }
 
-[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lokeshvarmaj)
-[![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokesh-122)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-varma-jampana-33b814229/)
+    .language-circle:hover {
+      transform: scale(1.1);
+    }
 
-</div>
+    .language-label {
+      position: absolute;
+      bottom: -30px;
+      width: 100%;
+      text-align: center;
+      font-size: 1rem;
+      color: #b3b3b3;
+    }
+  </style>
+</head>
 
----
+<body>
 
-## 📈 GitHub Stats
+  <!-- Name and Rocket -->
+  <div class="header">
+    <h1>Hi, I'm Lokesh Varma Jampana</h1>
+    <img src="/path-to-your-rocket.png" alt="Rocket" class="rocket">
+  </div>
 
-<div align="center">
+  <!-- Toolbox (Skills) -->
+  <div class="toolbox">
+    Python, R, Java, SQL, JavaScript, TensorFlow, PyTorch, Keras, Power BI, NumPy, Pandas, scikit-learn, OpenCV, HuggingFace, FastAPI, Jupyter, VS Code, Git, Google Cloud, AWS, Power Query, Supabase, Machine Learning, Generative AI, LLMs, Transformers, NLP, CNNs, RNNs, Data Visualization, MySQL, MongoDB, Cloud DBs
+  </div>
 
-[![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh-122&show_icons=true&theme=tokyonight)](https://github.com/lokesh-122)
-<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-122&layout=compact&theme=tokyonight)](https://github.com/lokesh-122)
+  <!-- Social Links -->
+  <div class="social-links">
+    <a href="https://x.com/LokeshvarmaJ" target="_blank">X (Twitter)</a>
+    <a href="https://medium.com/@lokeshvarmaj" target="_blank">Medium</a>
+    <a href="https://www.instagram.com/lokeshvarmaj/" target="_blank">Instagram</a>
+  </div>
 
-</div>
+  <!-- Most Used Languages -->
+  <div class="languages-section">
+    <div class="languages-title">My Most Used Languages 🔥</div>
+    <div class="languages-grid">
+      <div class="language-circle" style="--percentage: 86%;">
+        86%
+        <div class="language-label">TypeScript</div>
+      </div>
+      <div class="language-circle" style="--percentage: 5%;">
+        5%
+        <div class="language-label">Solidity</div>
+      </div>
+      <div class="language-circle" style="--percentage: 4.5%;">
+        4.5%
+        <div class="language-label">JavaScript</div>
+      </div>
+      <div class="language-circle" style="--percentage: 2.1%;">
+        2.1%
+        <div class="language-label">CSS</div>
+      </div>
+      <div class="language-circle" style="--percentage: 1.3%;">
+        1.3%
+        <div class="language-label">HTML</div>
+      </div>
+      <div class="language-circle" style="--percentage: 1%;">
+        1%
+        <div class="language-label">SCSS</div>
+      </div>
+    </div>
+  </div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=footer"/>
-</p>
+</body>
+</html>
