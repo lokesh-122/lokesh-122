@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=AI+%7C+Machine+Learning+Enthusiast;Building+Next-Gen+Intelligent+Solutions;Transforming+Ideas+Into+Reality;Coding+The+Future+One+Algorithm+At+A+Time" alt="Typing SVG" />
 </p>
 
+<p align="center">
+A bit about myself, I am Lokesh Varma Jampana, currently pursuing my Computer Science Engineering degree with a specialization in AI & Machine Learning. 🚀  
+Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excited to explore new fields and technologies! ⚡
+</p>
+
 ---
 
 ## 🛠️ Toolbox
