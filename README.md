@@ -72,6 +72,40 @@ Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excit
 </div>
 
 ---
+---
+
+## 🎖️ My Achievements
+
+<div align="center">
+
+<a href="https://developers.google.com/profile/badges/playlists/solutions/ai-gemini-images">
+  <img src="https://developers.google.com/static/profile/badges/images/ai_gemini_images_badge.png" width="120" alt="AI Gemini Images Badge"/>
+</a>
+
+<a href="https://developers.google.com/profile/badges/playlists/solutions/ai-gemini-getting-started-dart-flutter">
+  <img src="https://developers.google.com/static/profile/badges/images/ai_gemini_getting_started_dart_flutter_badge.png" width="120" alt="AI Gemini Dart & Flutter Badge"/>
+</a>
+
+<a href="https://developers.google.com/profile/badges/playlists/solutions/games-ai-101">
+  <img src="https://developers.google.com/static/profile/badges/images/games_ai_101_badge.png" width="120" alt="Games AI 101 Badge"/>
+</a>
+
+<a href="https://developers.google.com/profile/badges/playlists/solutions/crossword">
+  <img src="https://developers.google.com/static/profile/badges/images/crossword_badge.png" width="120" alt="Crossword Badge"/>
+</a>
+
+<a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
+  <img src="https://developers.google.com/static/profile/badges/images/cloud_innovators_2021_badge.png" width="120" alt="Cloud Innovators Member Badge"/>
+</a>
+
+<a href="https://developers.google.com/profile/badges/codelabs/first-codelab">
+  <img src="https://developers.google.com/static/profile/badges/images/first_codelab_badge.png" width="120" alt="First Codelab Badge"/>
+</a>
+
+</div>
+
+---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=footer"/>
