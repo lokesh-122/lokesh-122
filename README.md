@@ -1,19 +1,25 @@
 <p align="center">
-  <img src="https://i.postimg.cc/L4qbMwQp/fe7c1fcf-d91d-45ac-beca-273e4faa6184.png" alt="Space Coder Banner" width="1000%" />
+  <img src="https://i.postimg.cc/htRRXcQg/004f31cc-fb99-4bb6-a657-7f4b915ce668.png" alt="Banner" width="100%" />
 </p>
 
-# Hi, I'm Lokesh Varma Jampana 🚀
+<h1 align="center">Hi, I am Lokesh Varma Jampana 👋</h1>
 
-I'm passionate about building intelligent solutions using **AI** and **Machine Learning**.  
-Constantly exploring the intersection of technology, data, and innovation.  
-Let's connect and build the future together! 🌌
+<p align="center">
+A passionate AI & Machine Learning Developer 🚀 | Always curious to explore new tech and innovate! 🌌
+</p>
+
+<p align="center">
+  <a href="https://g.dev/lokeshvarmaj"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"></a>
+  <a href="https://github.com/lokesh-122"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/lokesh-varma-jampana-33b814229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
 ## 🛠️ Toolbox
 
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -25,25 +31,11 @@ Let's connect and build the future together! 🌌
 
 ---
 
-## 🌐 Let's Get Connected!
+## 📈 Most Used Languages
 
 <div align="center">
 
-[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lokeshvarmaj)
-[![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokesh-122)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-varma-jampana-33b814229/)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh-122&show_icons=true&theme=tokyonight)](https://github.com/lokesh-122)
-<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-122&layout=compact&theme=tokyonight)](https://github.com/lokesh-122)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-122&layout=compact&theme=tokyonight)](https://github.com/lokesh-122/github-readme-stats)
 
 </div>
 
