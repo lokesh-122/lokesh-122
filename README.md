@@ -19,8 +19,7 @@ Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excit
 
 <div align="center">
 
-<!-- (Your giant updated Toolbox with Python, R, TensorFlow, HuggingFace, GCP, AWS, etc) -->
-<!-- If you want, I can insert full badge section again here -->
+<!-- (Your updated Toolbox badges section here) -->
 
 </div>
 
@@ -64,23 +63,6 @@ Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excit
 [![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh-122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/lokesh-122)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lokesh-122&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<h2 align="center">📚 Pinned Projects</h2>
-
-<div align="center">
-
-<!-- Example project template -->
-<a href="https://github.com/lokesh-122/your-project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-122&repo=your-project-name&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/lokesh-122/your-second-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-122&repo=your-second-project&theme=tokyonight" />
-</a>
 
 </div>
 
