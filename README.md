@@ -1,26 +1,26 @@
 # Hi, I'm Lokesh Varma Jampana 🚀
 
----
-
-**Skills Toolbox:**  
-Python, R, Java, SQL, JavaScript, TensorFlow, PyTorch, Keras, Power BI, NumPy, Pandas, scikit-learn, OpenCV, HuggingFace, FastAPI, Jupyter, VS Code, Git, Google Cloud, AWS, Power Query, Supabase, Machine Learning, Generative AI, LLMs, Transformers, NLP, CNNs, RNNs, Data Visualization, MySQL, MongoDB, Cloud DBs
+A bit about me:  
+I am Lokesh Varma, currently focused on AI/ML, Computer Vision, Deep Learning, and aspiring to innovate at NVIDIA. I love tech, travel, and learning new things! ⚡
 
 ---
 
-**Social Links:**  
-- [X (Twitter)](https://x.com/LokeshvarmaJ)  
-- [Medium](https://medium.com/@lokeshvarmaj)  
-- [Instagram](https://www.instagram.com/lokeshvarmaj/)
+# 🛠 Toolbox
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql,react,nodejs,tensorflow,pytorch,keras,git,github,vscode,aws,gcp,mongodb,mysql,html,css,figma" alt="Toolbox" width="100%">
 
 ---
 
-## 🔥 My Most Used Languages
+# 🌐 Let's Connect
 
-| Language    | Usage  |
-| ----------- | ------ |
-| TypeScript  | 86%    |
-| Solidity    | 5%     |
-| JavaScript  | 4.5%   |
-| CSS         | 2.1%   |
-| HTML        | 1.3%   |
-| SCSS        | 1%     |
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LokeshvarmaJ)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lokeshvarmaj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lokeshvarmaj/)
+
+---
+
+# 📊 My Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshvarmaj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
