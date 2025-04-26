@@ -15,7 +15,7 @@ Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excit
 
 ---
 
-## 🛠️ Toolbox
+<h2 align="center">🛠️ Toolbox</h2>
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excit
 
 ---
 
-## 🌐 Let's Get Connected!
+<h2 align="center">🌐 Let's Get Connected!</h2>
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excit
 
 ---
 
-## 📈 Most Used Languages
+<h2 align="center">📈 Most Used Languages</h2>
 
 <div align="center">
 
