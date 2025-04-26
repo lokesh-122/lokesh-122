@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[LINK_HERE](https://i.postimg.cc/htRRXcQg/004f31cc-fb99-4bb6-a657-7f4b915ce668.png)" alt="Space Coder Banner" width="100%" />
+  <img src="https://i.postimg.cc/htRRXcQg/004f31cc-fb99-4bb6-a657-7f4b915ce668.png)](https://i.postimg.cc/jjJ8PJpF/004f31cc-fb99-4bb6-a657-7f4b915ce668.png" alt="Space Coder Banner" width="100%" />
 </p>
 
 # Hi, I'm Lokesh Varma Jampana 🚀
