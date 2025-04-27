@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-A bit about myself, I am Lokesh Varma Jampana, currently pursuing my Computer Science Engineering degree with a specialization in AI & Machine Learning. 🚀  
+A bit about myself, I am Lokesh Varma Jampana, currently pursuing my Computer Science Engineering degree with a specialisation in AI & Machine Learning. 🚀  
 Right now, I'm deeply focused on AI, ML, and Deep Learning, but I'm always excited to explore new fields and technologies! ⚡
 </p>
 
